@@ -1,5 +1,5 @@
 html {
-	background: url(../Images/bg.jpg) no-repeat center left fixed; 
+	background: url(../img/bg.jpg) no-repeat center left fixed; 
   	-webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
@@ -68,7 +68,7 @@ hr.fancy {
 #imgCol {
 	height:606px;
 	width:530px;
-    background-image:url(../Images/image0.jpg);
+    background-image:url(../img/image0.jpg);
 	background-repeat: no-repeat;
 	background-position: top left;
 	float:left;
